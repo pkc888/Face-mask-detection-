@@ -1,0 +1,2 @@
+# Face-mask-detection-
+A deep learning model for detecting faces with or without mask and web application which is used as an interface for the model to convey the inputs and results with the end user. The application is backed with a database containing photo and contact info of the people in an organization through which it can send an alert message to the specified person. The model was trained with transfer learning methodology using TensorFlow and keras library of python. Flask framework was used as backend for web application
